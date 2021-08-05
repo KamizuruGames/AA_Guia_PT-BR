@@ -1,6 +1,11 @@
 # AA_Guia_PT-BR (Versão Traduzida para o Português Brasileiro do guia do Owyn)
 
-Guia para o Terceiro Boss da Antaroth Abyss.
+Guia para o Terceiro Boss da Antaroth Abyss, Normal Mode, Hard Mode e 7 Pessoas.
+
+O script detecta automaticamente o Boss e qual modo de Dungeon é.
+
+# Outras Traduções
+**[Inglês (English) by Owyn](https://github.com/Owyn/aaguide)**
 
 # Comandos:
 Utilizável apenas dentro da Antaroth Abyss. O uso dos comandos fora da Antaroth Abyss ira retornar um valor indefinido.
