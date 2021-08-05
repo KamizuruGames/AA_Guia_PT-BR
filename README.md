@@ -12,4 +12,4 @@ Utilizável apenas dentro da Antaroth Abyss. O uso dos comandos fora da Antaroth
 
 # Créditos de Tradução: Kamizuru
 
-<img src=https://eme03.enmasse-game.com/images/tera/news/201805_heroes_oath/alt/interior.jpg>
+<img src=https://i.imgur.com/ZSarQ0I.png>
